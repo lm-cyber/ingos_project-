@@ -89,6 +89,8 @@ project/
 ### Ресурсы и полезные ссылки
 - Оригинальная статья CRAFT: [CRAFT Paper](https://arxiv.org/abs/1904.01941)
 - Описание SegFormer: [SegFormer Paper](https://arxiv.org/abs/2105.15203)
+- репозиторий с имплементацией CRAFT: [CRAFT implementation](https://github.com/clovaai/CRAFT-pytorch)
+- Fine-Tune SegFormer от huggingface: [SegFormer Fine-Tune](https://huggingface.co/blog/fine-tune-segformer)
 - Открытые датасеты для задач детекции текста:
   - SynthText ([GitHub](https://github.com/ankush-me/SynthText))
   - ICDAR ([ICDAR Website](https://rrc.cvc.uab.es/))
