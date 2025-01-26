@@ -68,7 +68,7 @@
 - Fine-Tune SegFormer от huggingface: [SegFormer Fine-Tune](https://huggingface.co/blog/fine-tune-segformer)
 - Открытые датасеты для задач детекции текста:
  
-### Датасеты для валидации (не валидируйтесьь на синтетике )
+### Датасеты для валидации (Не валидироваться на синтетических данных)
 - SynthText ([GitHub](https://github.com/ankush-me/SynthText))
 - ICDAR ([ICDAR Website](https://rrc.cvc.uab.es/))
 
